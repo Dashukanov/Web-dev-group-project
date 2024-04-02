@@ -1,4 +1,4 @@
-Web project - Fast food reviews
+Web project - Movie reviews
 
 Frontend:
 Angular, TypeScript, HTML, CSS
